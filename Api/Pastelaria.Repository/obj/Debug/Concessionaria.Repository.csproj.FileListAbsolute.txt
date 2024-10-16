@@ -1,0 +1,7 @@
+C:\Users\Moises\Desktop\Pastel\Concessionaria\Api\Pastelaria.Repository\bin\Debug\Concessionaria.Repository.dll
+C:\Users\Moises\Desktop\Pastel\Concessionaria\Api\Pastelaria.Repository\bin\Debug\Concessionaria.Repository.pdb
+C:\Users\Moises\Desktop\Pastel\Concessionaria\Api\Pastelaria.Repository\bin\Debug\Concessionaria.Domain.dll
+C:\Users\Moises\Desktop\Pastel\Concessionaria\Api\Pastelaria.Repository\bin\Debug\Concessionaria.Domain.pdb
+C:\Users\Moises\Desktop\Pastel\Concessionaria\Api\Pastelaria.Repository\obj\Debug\Concessionaria.Repository.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Desktop\Pastel\Concessionaria\Api\Pastelaria.Repository\obj\Debug\Concessionaria.Repository.dll
+C:\Users\Moises\Desktop\Pastel\Concessionaria\Api\Pastelaria.Repository\obj\Debug\Concessionaria.Repository.pdb

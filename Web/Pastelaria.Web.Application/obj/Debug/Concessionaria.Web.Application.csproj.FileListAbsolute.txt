@@ -1,0 +1,15 @@
+C:\Users\Moises\Desktop\Pastel\Concessionaria\Web\Pastelaria.Web.Application\bin\Debug\Concessionaria.Application.dll.config
+C:\Users\Moises\Desktop\Pastel\Concessionaria\Web\Pastelaria.Web.Application\bin\Debug\Concessionaria.Application.dll
+C:\Users\Moises\Desktop\Pastel\Concessionaria\Web\Pastelaria.Web.Application\bin\Debug\Concessionaria.Application.pdb
+C:\Users\Moises\Desktop\Pastel\Concessionaria\Web\Pastelaria.Web.Application\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Moises\Desktop\Pastel\Concessionaria\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.dll
+C:\Users\Moises\Desktop\Pastel\Concessionaria\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Moises\Desktop\Pastel\Concessionaria\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Moises\Desktop\Pastel\Concessionaria\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Moises\Desktop\Pastel\Concessionaria\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Users\Moises\Desktop\Pastel\Concessionaria\Web\Pastelaria.Web.Application\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Moises\Desktop\Pastel\Concessionaria\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.xml
+C:\Users\Moises\Desktop\Pastel\Concessionaria\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.WebRequest.xml
+C:\Users\Moises\Desktop\Pastel\Concessionaria\Web\Pastelaria.Web.Application\obj\Debug\Concessionaria.Web.Application.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Desktop\Pastel\Concessionaria\Web\Pastelaria.Web.Application\obj\Debug\Concessionaria.Application.dll
+C:\Users\Moises\Desktop\Pastel\Concessionaria\Web\Pastelaria.Web.Application\obj\Debug\Concessionaria.Application.pdb

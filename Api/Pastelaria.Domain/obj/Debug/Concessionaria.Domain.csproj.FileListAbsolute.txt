@@ -1,0 +1,4 @@
+C:\Users\Moises\Desktop\Pastel\Concessionaria\Api\Pastelaria.Domain\bin\Debug\Concessionaria.Domain.dll
+C:\Users\Moises\Desktop\Pastel\Concessionaria\Api\Pastelaria.Domain\bin\Debug\Concessionaria.Domain.pdb
+C:\Users\Moises\Desktop\Pastel\Concessionaria\Api\Pastelaria.Domain\obj\Debug\Concessionaria.Domain.dll
+C:\Users\Moises\Desktop\Pastel\Concessionaria\Api\Pastelaria.Domain\obj\Debug\Concessionaria.Domain.pdb
